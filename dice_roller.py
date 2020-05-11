@@ -8,6 +8,7 @@ def main():
     x = "You rolled a dice and the value is "
     y = x + str(dice_sum)
   print(y)
+  print('Bye')
 
 
 if __name__== "__main__":
